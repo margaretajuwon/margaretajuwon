@@ -1,4 +1,4 @@
-﻿# Hi, I'm Margaret Ajuwon
+# Hi, I'm Margaret Ajuwon
 
 Senior data analyst focused on **product, growth and subscription analytics**: funnels, retention and churn,
 experimentation, and the dashboards and metrics that help teams decide what to do next.
